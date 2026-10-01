@@ -1,0 +1,18 @@
+{
+  "name": "ton-link-forge",
+  "version": "1.0.0",
+  "description": "CLI для генерации TON/USDT/wrapped-BTC/NFT платёжных ссылок",
+  "main": "index.js",
+  "bin": {
+    "ton-link-forge": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["ton", "cli", "payment-links"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ton/core": "^0.63.1"
+  }
+}
