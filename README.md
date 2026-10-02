@@ -16,8 +16,8 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone <твой-репозиторий>
-cd txforge
+git clone https://github.com/crypto-killu/TX-Forge.git
+cd TX-Forge
 node index.js
 ```
 
